@@ -1,0 +1,10 @@
+C:\Users\Famiria-SAN\source\repos\ParcialJuego\ParcialJuego\obj\Debug\ParcialJuego.csprojAssemblyReference.cache
+C:\Users\Famiria-SAN\source\repos\ParcialJuego\ParcialJuego\obj\Debug\ParcialJuego.Form1.resources
+C:\Users\Famiria-SAN\source\repos\ParcialJuego\ParcialJuego\obj\Debug\ParcialJuego.Properties.Resources.resources
+C:\Users\Famiria-SAN\source\repos\ParcialJuego\ParcialJuego\obj\Debug\ParcialJuego.csproj.GenerateResource.cache
+C:\Users\Famiria-SAN\source\repos\ParcialJuego\ParcialJuego\obj\Debug\ParcialJuego.csproj.CoreCompileInputs.cache
+C:\Users\Famiria-SAN\source\repos\ParcialJuego\ParcialJuego\bin\Debug\ParcialJuego.exe.config
+C:\Users\Famiria-SAN\source\repos\ParcialJuego\ParcialJuego\bin\Debug\ParcialJuego.exe
+C:\Users\Famiria-SAN\source\repos\ParcialJuego\ParcialJuego\bin\Debug\ParcialJuego.pdb
+C:\Users\Famiria-SAN\source\repos\ParcialJuego\ParcialJuego\obj\Debug\ParcialJuego.exe
+C:\Users\Famiria-SAN\source\repos\ParcialJuego\ParcialJuego\obj\Debug\ParcialJuego.pdb

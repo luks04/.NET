@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerHerenciaInterfaces_Punto1", "TallerHerenciaInterfaces_Punto1\TallerHerenciaInterfaces_Punto1.csproj", "{ABFC6EE2-12ED-4CCD-8DE8-EF2AA98865C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABFC6EE2-12ED-4CCD-8DE8-EF2AA98865C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFC6EE2-12ED-4CCD-8DE8-EF2AA98865C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFC6EE2-12ED-4CCD-8DE8-EF2AA98865C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFC6EE2-12ED-4CCD-8DE8-EF2AA98865C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F76A996-6725-4B81-AC0D-243B6FA5F285}
+	EndGlobalSection
+EndGlobal

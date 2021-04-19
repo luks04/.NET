@@ -1,0 +1,13 @@
+C:\Users\Famiria-SAN\source\repos\TallerConversionTiposCsharp\TallerConversionTiposCsharp\bin\Debug\TallerConversionTiposCsharp.exe.config
+C:\Users\Famiria-SAN\source\repos\TallerConversionTiposCsharp\TallerConversionTiposCsharp\bin\Debug\TallerConversionTiposCsharp.exe
+C:\Users\Famiria-SAN\source\repos\TallerConversionTiposCsharp\TallerConversionTiposCsharp\bin\Debug\TallerConversionTiposCsharp.pdb
+C:\Users\Famiria-SAN\source\repos\TallerConversionTiposCsharp\TallerConversionTiposCsharp\obj\Debug\TallerConversionTiposCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Famiria-SAN\source\repos\TallerConversionTiposCsharp\TallerConversionTiposCsharp\obj\Debug\TallerConversionTiposCsharp.exe
+C:\Users\Famiria-SAN\source\repos\TallerConversionTiposCsharp\TallerConversionTiposCsharp\obj\Debug\TallerConversionTiposCsharp.pdb
+C:\Users\Famiria-SAN\source\repos\Introduccion_NET\TalleresIntro_NET\TallerConversionTiposCsharp\TallerConversionTiposCsharp\bin\Debug\TallerConversionTiposCsharp.exe.config
+C:\Users\Famiria-SAN\source\repos\Introduccion_NET\TalleresIntro_NET\TallerConversionTiposCsharp\TallerConversionTiposCsharp\bin\Debug\TallerConversionTiposCsharp.exe
+C:\Users\Famiria-SAN\source\repos\Introduccion_NET\TalleresIntro_NET\TallerConversionTiposCsharp\TallerConversionTiposCsharp\bin\Debug\TallerConversionTiposCsharp.pdb
+C:\Users\Famiria-SAN\source\repos\Introduccion_NET\TalleresIntro_NET\TallerConversionTiposCsharp\TallerConversionTiposCsharp\obj\Debug\TallerConversionTiposCsharp.csprojAssemblyReference.cache
+C:\Users\Famiria-SAN\source\repos\Introduccion_NET\TalleresIntro_NET\TallerConversionTiposCsharp\TallerConversionTiposCsharp\obj\Debug\TallerConversionTiposCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Famiria-SAN\source\repos\Introduccion_NET\TalleresIntro_NET\TallerConversionTiposCsharp\TallerConversionTiposCsharp\obj\Debug\TallerConversionTiposCsharp.exe
+C:\Users\Famiria-SAN\source\repos\Introduccion_NET\TalleresIntro_NET\TallerConversionTiposCsharp\TallerConversionTiposCsharp\obj\Debug\TallerConversionTiposCsharp.pdb

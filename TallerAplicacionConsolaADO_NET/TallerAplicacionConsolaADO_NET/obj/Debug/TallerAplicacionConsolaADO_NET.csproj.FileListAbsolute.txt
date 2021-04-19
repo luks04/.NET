@@ -1,0 +1,14 @@
+C:\Users\Famiria-SAN\source\repos\TallerAplicacionConsolaADO_NET\TallerAplicacionConsolaADO_NET\bin\Debug\TallerAplicacionConsolaADO_NET.exe.config
+C:\Users\Famiria-SAN\source\repos\TallerAplicacionConsolaADO_NET\TallerAplicacionConsolaADO_NET\bin\Debug\TallerAplicacionConsolaADO_NET.exe
+C:\Users\Famiria-SAN\source\repos\TallerAplicacionConsolaADO_NET\TallerAplicacionConsolaADO_NET\bin\Debug\TallerAplicacionConsolaADO_NET.pdb
+C:\Users\Famiria-SAN\source\repos\TallerAplicacionConsolaADO_NET\TallerAplicacionConsolaADO_NET\obj\Debug\TallerAplicacionConsolaADO_NET.csproj.CoreCompileInputs.cache
+C:\Users\Famiria-SAN\source\repos\TallerAplicacionConsolaADO_NET\TallerAplicacionConsolaADO_NET\obj\Debug\TallerAplicacionConsolaADO_NET.exe
+C:\Users\Famiria-SAN\source\repos\TallerAplicacionConsolaADO_NET\TallerAplicacionConsolaADO_NET\obj\Debug\TallerAplicacionConsolaADO_NET.pdb
+C:\Users\Famiria-SAN\source\repos\TallerAplicacionConsolaADO_NET\TallerAplicacionConsolaADO_NET\obj\Debug\TallerAplicacionConsolaADO_NET.csprojAssemblyReference.cache
+C:\Users\Famiria-SAN\source\repos\ADO_NET\TallerAplicacionConsolaADO_NET\TallerAplicacionConsolaADO_NET\bin\Debug\TallerAplicacionConsolaADO_NET.exe.config
+C:\Users\Famiria-SAN\source\repos\ADO_NET\TallerAplicacionConsolaADO_NET\TallerAplicacionConsolaADO_NET\bin\Debug\TallerAplicacionConsolaADO_NET.exe
+C:\Users\Famiria-SAN\source\repos\ADO_NET\TallerAplicacionConsolaADO_NET\TallerAplicacionConsolaADO_NET\bin\Debug\TallerAplicacionConsolaADO_NET.pdb
+C:\Users\Famiria-SAN\source\repos\ADO_NET\TallerAplicacionConsolaADO_NET\TallerAplicacionConsolaADO_NET\obj\Debug\TallerAplicacionConsolaADO_NET.csproj.CoreCompileInputs.cache
+C:\Users\Famiria-SAN\source\repos\ADO_NET\TallerAplicacionConsolaADO_NET\TallerAplicacionConsolaADO_NET\obj\Debug\TallerAplicacionConsolaADO_NET.exe
+C:\Users\Famiria-SAN\source\repos\ADO_NET\TallerAplicacionConsolaADO_NET\TallerAplicacionConsolaADO_NET\obj\Debug\TallerAplicacionConsolaADO_NET.pdb
+C:\Users\Famiria-SAN\source\repos\ADO_NET\TallerAplicacionConsolaADO_NET\TallerAplicacionConsolaADO_NET\obj\Debug\TallerAplicacionConsolaADO_NET.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\Famiria-SAN\source\repos\Parcial2_NET\Parcial2_NET\bin\Debug\Parcial2_NET.exe.config
+C:\Users\Famiria-SAN\source\repos\Parcial2_NET\Parcial2_NET\bin\Debug\Parcial2_NET.exe
+C:\Users\Famiria-SAN\source\repos\Parcial2_NET\Parcial2_NET\bin\Debug\Parcial2_NET.pdb
+C:\Users\Famiria-SAN\source\repos\Parcial2_NET\Parcial2_NET\obj\Debug\Parcial2_NET.csproj.CoreCompileInputs.cache
+C:\Users\Famiria-SAN\source\repos\Parcial2_NET\Parcial2_NET\obj\Debug\Parcial2_NET.exe
+C:\Users\Famiria-SAN\source\repos\Parcial2_NET\Parcial2_NET\obj\Debug\Parcial2_NET.pdb
+C:\Users\Famiria-SAN\source\repos\Version_2_Parcial2_NET\Parcial2_NET\Parcial2_NET\bin\Debug\Parcial2_NET.exe.config
+C:\Users\Famiria-SAN\source\repos\Version_2_Parcial2_NET\Parcial2_NET\Parcial2_NET\bin\Debug\Parcial2_NET.exe
+C:\Users\Famiria-SAN\source\repos\Version_2_Parcial2_NET\Parcial2_NET\Parcial2_NET\bin\Debug\Parcial2_NET.pdb
+C:\Users\Famiria-SAN\source\repos\Version_2_Parcial2_NET\Parcial2_NET\Parcial2_NET\obj\Debug\Parcial2_NET.csprojAssemblyReference.cache
+C:\Users\Famiria-SAN\source\repos\Version_2_Parcial2_NET\Parcial2_NET\Parcial2_NET\obj\Debug\Parcial2_NET.csproj.CoreCompileInputs.cache
+C:\Users\Famiria-SAN\source\repos\Version_2_Parcial2_NET\Parcial2_NET\Parcial2_NET\obj\Debug\Parcial2_NET.exe
+C:\Users\Famiria-SAN\source\repos\Version_2_Parcial2_NET\Parcial2_NET\Parcial2_NET\obj\Debug\Parcial2_NET.pdb
+C:\Users\Famiria-SAN\source\repos\Parcial2_NET\Parcial2_NET\obj\Debug\Parcial2_NET.csprojAssemblyReference.cache

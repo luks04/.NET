@@ -1,0 +1,6 @@
+C:\Users\Famiria-SAN\source\repos\TallerHerenciaInterfaces_Punto1\TallerHerenciaInterfaces_Punto1\obj\Debug\TallerHerenciaInterfaces_Punto1.csproj.CoreCompileInputs.cache
+C:\Users\Famiria-SAN\source\repos\TallerHerenciaInterfaces_Punto1\TallerHerenciaInterfaces_Punto1\bin\Debug\TallerHerenciaInterfaces_Punto1.exe.config
+C:\Users\Famiria-SAN\source\repos\TallerHerenciaInterfaces_Punto1\TallerHerenciaInterfaces_Punto1\bin\Debug\TallerHerenciaInterfaces_Punto1.exe
+C:\Users\Famiria-SAN\source\repos\TallerHerenciaInterfaces_Punto1\TallerHerenciaInterfaces_Punto1\bin\Debug\TallerHerenciaInterfaces_Punto1.pdb
+C:\Users\Famiria-SAN\source\repos\TallerHerenciaInterfaces_Punto1\TallerHerenciaInterfaces_Punto1\obj\Debug\TallerHerenciaInterfaces_Punto1.exe
+C:\Users\Famiria-SAN\source\repos\TallerHerenciaInterfaces_Punto1\TallerHerenciaInterfaces_Punto1\obj\Debug\TallerHerenciaInterfaces_Punto1.pdb
